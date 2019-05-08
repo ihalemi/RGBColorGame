@@ -1,4 +1,4 @@
-# RGBColorGame
+# RGBColorGame - https://ihalemi.github.io/RGBGame/
 
 RGB Color Game that generates a random RGB color code and you must try to guess the color by clicking one of the color squares.
 
